@@ -35,6 +35,10 @@
     {
       "title": "奇客Solidot",
       "url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "title": "cnblog",
+      "url": "http://feed.cnblogs.com/news/rss"
     }
   ]
 }
